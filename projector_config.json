@@ -6,9 +6,9 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/.../bookmarks.txt"
+      "tensorPath": "https://raw.githubusercontent.com/dynamicwebpaige/kaggle-survey-spelunking/main/kaggle-one-hot-tools.txt",
+      "metadataPath": "https://raw.githubusercontent.com/dynamicwebpaige/kaggle-survey-spelunking/main/kaggle-languages-metadata.txt",
+      "bookmarksPath": "https://raw.githubusercontent.com/dynamicwebpaige/kaggle-survey-spelunking/main/state.txt"
     }
   ]
 }
