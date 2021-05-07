@@ -5,7 +5,7 @@
 Steps to visualize:
 - Select UMAP.
 - Select label.
-- Toggle neighbors to 11.
+- Toggle neighbors to 49.
 
 ## 3D Visualizations of Tools Use
 
