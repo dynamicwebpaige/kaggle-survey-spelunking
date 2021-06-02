@@ -1,11 +1,11 @@
-# Kaggle Survey 2020 (WIP)
+# Kaggle Survey 2020 
 
 [Check it out here.](https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/dynamicwebpaige/kaggle-survey-spelunking/main/projector_config.json)
 
 Steps to visualize:
 - Select UMAP.
 - Select label.
-- Toggle neighbors to 49.
+- Toggle neighbors to 32.
 
 ## 3D Visualizations of Tools Use
 
